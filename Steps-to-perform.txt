@@ -1,0 +1,7 @@
+Create Github Repo
+Create Branches for Dev, test and prod
+set default branch to Dev
+Add multiple developers to Repo
+
+clone the repo in vscode
+
