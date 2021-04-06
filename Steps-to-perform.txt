@@ -1,0 +1,8 @@
+Create Github Repo
+Create Branches for Dev, test and prod
+set default branch to Dev
+Add multiple developers to Repo
+clone the repo in vscode
+
+Set up sqitch using docker and initialize it
+for sqitch setup, convert the shell file to a batch file if working on windows.
